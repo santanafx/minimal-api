@@ -1,5 +1,5 @@
-using Minimal_api.Domain.Entities.Administrator;
 using Microsoft.EntityFrameworkCore;
+using Minimal_api.Domain.Entities;
 
 namespace Minimal_api.Infrastructure.Db.MinimalApiDbContext;
 
